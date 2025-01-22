@@ -6,8 +6,8 @@
 I am an experienced developer, code reviewer, and mentor to other developers. With a strong background in various programming languages and technologies, I enjoy tackling complex problems and continuously expanding my knowledge.
 
 ## Skills and Technologies
-- **Programming Languages:** C++, C#, Java, Python, VBA
-- **Web Development:** Flask
+- **Programming Languages:** Python, C++, C#, Java, VBA
+- **Web Development:** Flask, FastAPI
 - **Cloud Computing:** Microsoft Azure, Google Cloud Platform (GCP)
 - **Database Management:** SQL, NoSQL, MongoDB, CosmosDB
 - **CRM Tools:** Zoho CRM
